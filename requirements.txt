@@ -27,7 +27,7 @@ lxml==4.4.1
 Markdown==3.1.1
 mock==3.0.5
 nltk==3.4.5
-numpy==1.16.5
+numpy==1.22.0
 pandas==0.24.2
 pathlib2==2.3.5
 pexpect==4.7.0
